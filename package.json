@@ -1,0 +1,24 @@
+{
+    "name": "next-pose-page-transitions",
+    "version": "0.0.1",
+    "description": "Next.js page transitions with Pose",
+    "main": "index.js",
+    "scripts": {
+      "dev": "next",
+      "build": "next build",
+      "start": "next start"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "next": "^7.0.2",
+      "react": "^16.7.0-alpha.0",
+      "react-dom": "^16.7.0-alpha.0",
+      "react-pose": "^4.0.2"
+    },
+    "devDependencies": {
+      "styled-jsx-plugin-stylus": "0.0.4",
+      "stylus": "^0.54.5"
+    }
+  }
+  
